@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+  height: 100vh;
+  background-color: #a5a5a7;
+}
+
+.App img{
+  height: 350px;
+  width: 400px;
+  margin-top: 5px;
+}
+button{
+  height: 30px;
+  width: 400px;
+  margin: 5px;
+background-image: linear-gradient(to right top, #051937, #002265, #002993, #002ac1, #121ceb);
+color: white;
+font-size: 20px;
+border: none;
+}
